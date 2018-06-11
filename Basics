@@ -1,0 +1,8 @@
+Installlation of RN is pretty crappy
+ESLint is very important for development
+
+A RN app consists of components, at minimum a single component should be there, this component is always
+registered with app registry.
+we can then have the child components which do not require app registry.
+
+to create a component a separarte JS file should be cre
